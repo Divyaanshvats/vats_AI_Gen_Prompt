@@ -76,10 +76,4 @@ Each PDF report contains:
 - GroqCloud offers a powerful `llama3-8b-8192` model with a better mix of features and cost-effectiveness for this project.
 
 ---
-
-Feel free to explore the code and customize the prompt or report style as you like!
-
----
-
-**Happy learning and teaching!**
-
+**So that was my project**
