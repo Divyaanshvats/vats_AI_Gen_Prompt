@@ -7,10 +7,10 @@ This project generates personalized PDF feedback reports for student test perfor
 
 ---
 
-## APIs Used
+## API Used
 
 - **GroqCloud LLM API** (`llama3-8b-8192` model)  
-  We used GroqCloud’s large language model to generate detailed, natural feedback based on student scores and accuracy.  
+  I used GroqCloud’s large language model to generate detailed, natural feedback based on student scores and accuracy.  
   > _Note: We chose GroqCloud because it offers more features and better performance compared to the free tiers of OpenAI, Claude, and Gemini, which have limitations on usage and features._
 
 ---
