@@ -9,7 +9,7 @@ This project generates personalized PDF feedback reports for student test perfor
 
 ## API Used
 
-- **GroqCloud LLM API** (`llama3-8b-8192` model)  
+- **GroqCloud LLM API** (`llama3-70b-8192` model)  
   I used GroqCloud’s large language model to generate detailed, natural feedback based on student scores and accuracy.  
   > _Note: I chose GroqCloud because it offers more features and better performance compared to the free tiers of OpenAI, Claude, and Gemini, which have limitations on usage and features._
 
@@ -73,7 +73,7 @@ Each PDF report contains:
 
 - OpenAI, Claude, and Gemini are great but mostly paid and limited in free usage.  
 - Some features you need (like longer context windows or certain models) aren’t fully available in their free tiers.  
-- GroqCloud offers a powerful `llama3-8b-8192` model with a better mix of features and cost-effectiveness for this project.
+- GroqCloud offers a powerful `llama3-70b-8192` model with a better mix of features and cost-effectiveness for this project.
 
 ---
 **So that was my project, THANK YOU**
