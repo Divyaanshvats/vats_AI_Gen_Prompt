@@ -47,7 +47,7 @@ Each PDF report contains:
 ## How the Code Works
 
 1. **Load JSON Data**  
-   Reads student test data from JSON files.
+   Reads student test data from JSON files.(The 3rd and 4th JSON File are the same but still taken both)
 
 2. **Extract Summary**  
    Pulls out key info: subject names, scores, accuracy, and time taken.
